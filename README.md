@@ -1,7 +1,5 @@
 # Solarpunk Personal Portfolio Website
 
-![Solarpunk Portfolio Banner](/placeholder.svg?height=300&width=800)
-
 A modern, responsive personal portfolio website with a solarpunk aesthetic, featuring a greenish-blue color palette, organic design elements, and a focus on sustainability themes.
 
 ## 🌿 Live Demo
