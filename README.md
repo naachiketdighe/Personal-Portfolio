@@ -64,8 +64,6 @@ Visit the live website: [naachoes.vercel.app](https://naachoes.vercel.app)
 
 ## 📁 Project Structure
 
-\`\`\`
-solarpunk-portfolio/
 ├── app/                  # Next.js App Router
 │   ├── layout.tsx        # Root layout
 │   ├── page.tsx          # Home page
@@ -94,27 +92,6 @@ solarpunk-portfolio/
 6. **Showcase**: Detailed portfolio items with images and descriptions
 7. **Contact**: Contact information and form
 
-## 🔒 Admin Features
-
-The site includes an admin panel accessible via the "Admin" button in the bottom right corner. Default password: `naachoes123` (for demo purposes only).
-
-Admin features include:
-- Adding and removing images from showcase items
-- Managing content (in a production environment)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
