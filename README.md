@@ -40,7 +40,7 @@ Visit the live website: [naachoes.vercel.app](https://naachoes.vercel.app)
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/solarpunk-portfolio.git
+   git clone https://github.com/naachiketdighe/Personal-Portfolio.git
    cd solarpunk-portfolio
    \`\`\`
 
